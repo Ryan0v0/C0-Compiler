@@ -1,0 +1,4 @@
+.data:
+.align 2
+.text:
+jal main
